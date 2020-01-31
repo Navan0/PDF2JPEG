@@ -1,0 +1,73 @@
+[33mcommit f0133df18a217f2caefcefc6381580bccaf8b599[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Your Name <nktclt@gmail.com>
+Date:   Thu Jun 20 03:36:24 2019 +0530
+
+    bug fix -  pred[2] changed to pred[1]
+
+.gitignore
+__pycache__/app.cpython-36.pyc
+__pycache__/wsgi.cpython-36.pyc
+
+[33mcommit 6e11665eed3807c6bfd32aecc0babea0e0d6d6a1[m
+Author: Your Name <nktclt@gmail.com>
+Date:   Thu Jun 20 03:34:16 2019 +0530
+
+    bug fix - wrong prediction because of pred[2] is using to get prediction
+
+app.py
+static/images/predictions/prediction41.jpg
+yolo_last.weights
+
+[33mcommit 7ac102669967d5b01cdccfe414451f28e8a049ca[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Your Name <nktclt@gmail.com>
+Date:   Sun Jun 16 14:16:52 2019 +0530
+
+    first commit
+
+.gitignore
+.gitmodules
+Dockerfile
+Procfile
+README.md
+__pycache__/app.cpython-36.pyc
+__pycache__/wsgi.cpython-36.pyc
+app.py
+app.pyc
+app.yaml
+appengine_config.py
+myproject.ini
+obj.data
+obj.names
+requirements.txt
+runtime.txt
+static/css/about.css
+static/css/main.css
+static/images/favicon.ico
+static/images/predictions/prediction100.jpg
+static/images/predictions/prediction13.jpg
+static/images/predictions/prediction24.jpg
+static/images/predictions/prediction26.jpg
+static/images/predictions/prediction47.jpg
+static/images/predictions/prediction53.jpg
+static/images/predictions/prediction57.jpg
+static/images/predictions/prediction63.jpg
+static/images/predictions/prediction65.jpg
+static/images/predictions/prediction70.jpg
+static/images/predictions/prediction85.jpg
+static/images/predictions/prediction87.jpg
+static/images/predictions/prediction89.jpg
+static/images/predictions/prediction97.jpg
+static/images/user.jpg
+static/js/about.js
+static/js/main.js
+templates/about.html
+templates/base.html
+templates/index.html
+test.html
+test.py
+test.txt
+tmp
+train.txt
+uploads/nohelm104.jpg
+wsgi.py
+yolo.cfg

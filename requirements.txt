@@ -1,0 +1,10 @@
+Werkzeug
+Flask
+numpy
+Keras
+gevent
+pillow
+h5py
+tensorflow
+gunicorn==19.9.0
+firebase-admin==2.11.0
